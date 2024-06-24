@@ -1,2 +1,3 @@
-# Sustainability-in-Finance
-This project investigates the relationship between ESG (Environmental, Social, Governance) scores and profitability of Fortune 500 companies. Using financial data and machine learning, we predict ESG scores to understand the impact of sustainability on financial performance, promoting responsible investing and informed decision-making.
+## Sustainability in Finance
+
+This project explores the relationship between a company's ESG (Environmental, Social, and Governance) performance and its profitability. By collecting and analyzing ESG scores and financial data from Fortune 500 companies, we employ machine learning techniques to predict ESG scores based on financial metrics. The project aims to provide insights into how sustainable practices impact financial performance, promoting responsible investing. Key components include data preprocessing, exploratory data analysis, feature engineering, and model building using algorithms like linear regression and random forests. The findings support the integration of ESG factors into financial decision-making for a sustainable future.
